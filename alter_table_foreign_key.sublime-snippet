@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[ALTER TABLE ${1:table_name} ADD CONSTRAINT ${2:constraint_name} FOREIGN KEY ${3:key_name} REFERENCES ${4:table_name}(${5:key_name}) ON DELETE ${6:CASCADE} ON UPDATE ${7:CASCADE};
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>atfk</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.sql</scope>
+    <description>alter table foreign key</description>
+</snippet>

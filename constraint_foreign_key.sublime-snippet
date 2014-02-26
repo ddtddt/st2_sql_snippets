@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[CONSTRAINT ${1:name_constraint} FOREIGN KEY ${2:name_column} REFERENCES ${3:name_table}(${4:name_column}) ON DELETE ${5:CASCADE} ON UPDATE ${6:CASCADE}]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cfk</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.sql</scope>
+    <description>constraint foreign key</description>
+</snippet>

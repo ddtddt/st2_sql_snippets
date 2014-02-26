@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[CREATE TABLE ${1:table_name} (
+        ${2:column_name1} ${3:type} ${4: UNSIGNED} ${5:AUTO_INCREMENT} ${6:NOT NULL},
+        ${7:column_name2} ${8:type} ${9:NOT NULL},
+        ${10:column_name3} ${11:type} ${12:NOT NULL}${0:})]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ct</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.sql</scope>
+    <description>create table</description>
+</snippet>
