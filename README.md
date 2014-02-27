@@ -3,10 +3,11 @@ Copy into your Sublime Text 2 'User' folder or in a subfolder (like ../sublime-t
 You can also copy the snippets directly in the SQL folder under ../sublime-text-2/Packages/SQL.
  
 Tab Trigger:
-ct => create table
 
+ct => create table
 atfk => alter table foreign key
 atpk => alter table primary key
 atc => add another table column
 cpk => constraint primary key
 cfk => constraint foreign key
+
