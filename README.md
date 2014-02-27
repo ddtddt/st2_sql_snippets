@@ -5,15 +5,10 @@ You can also copy the snippets directly in the SQL folder under ../sublime-text-
 Tab Trigger:
 
 ct => create table
-
 atfk => alter table foreign key
-
 atpk => alter table primary key
-
 atc => add another table column
-
 cpk => constraint primary key
-
 cfk => constraint foreign key
 
 
