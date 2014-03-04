@@ -20,3 +20,5 @@ Tab Trigger:
 * ut => update table  
 * dft => delete from table  
 * sft => select from table  
+
+Thank  you
