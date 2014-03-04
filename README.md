@@ -2,7 +2,7 @@
 ==========
 
 A collection of *SQL* snippets for Sublime Text 2.
-Copy into your Sublime Text 2 'User' folder or in a subfolder (like `../sublime-text-2/Packages/User/snippets/SQL`).  
+Copy into your Sublime Text 2 'User' folder or in a subfolder (like `../sublime-text-2/Packages/User/snippets/SQL/`).  
 You can also copy the snippets directly in the SQL folder under `../sublime-text-2/Packages/SQL/snippets/`.
  
 Tab Trigger:
