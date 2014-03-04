@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[GRANT ${1:${2:ALL,}${3:SELECT,}${4:DELETE,}${5:INSERT,}${6:UPDATE,}${7:ALTER}} ON ${8:table_name} TO ${9:'user_name'} ${10:WITH GRANT OPTION};${0:}]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>gr</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.sql</scope>
+    <description>grant rights</description>
+</snippet>

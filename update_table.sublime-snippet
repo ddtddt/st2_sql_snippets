@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[${1:column_name2} ${2:type} ${3:NOT NULL},${0:}]]></content>
+    <content><![CDATA[UPDATE ${1:table_name} SET ${2:column} = ${3:var} WHERE ${4:conditions};${0:}]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>aatc</tabTrigger>
+    <tabTrigger>ut</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.sql</scope>
-    <description>add another table column</description>
+    <description>update table</description>
 </snippet>

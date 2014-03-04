@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[INSERT INTO ${1:table_name} ${2:(${3:column01}${4:,column02})} VALUES ${5:(${6:val_col01}${7:,val_col02})};${0:}]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>iit</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.sql</scope>
+    <description>insert into table</description>
+</snippet>

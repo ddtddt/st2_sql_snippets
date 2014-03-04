@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[CONSTRAINT ${1:name_constraint} PRIMARY KEY ${2:name_key}]]></content>
+    <content><![CDATA[CONSTRAINT ${1:name_constraint} PRIMARY KEY ${2:name_key}${0:}]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>cpk</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
