@@ -7,16 +7,16 @@ You can also copy the snippets directly in the SQL folder under ../sublime-text-
  
 Tab Trigger:
 
-ct => create table  
-aatc => add another table column  
-cpk => constraint primary key  
-cfk => constraint foreign key  
-cv => create view  
-atpk => alter table primary key  
-atfk => alter table foreign key  
-ij => inner join  
-gr => grant rights  
-iit => insert into table  
-ut => update table  
-dft => delete from table  
-sft => select from table  
+* ct => create table  
+* aatc => add another table column  
+* cpk => constraint primary key  
+* cfk => constraint foreign key  
+* cv => create view  
+* atpk => alter table primary key  
+* atfk => alter table foreign key  
+* ij => inner join  
+* gr => grant rights  
+* iit => insert into table  
+* ut => update table  
+* dft => delete from table  
+* sft => select from table  
