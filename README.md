@@ -21,4 +21,4 @@ Tab Trigger:
 * dft => delete from table  
 * sft => select from table  
 
-Thank  you.
+Thank  you.  
